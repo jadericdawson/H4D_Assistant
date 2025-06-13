@@ -11,43 +11,6 @@ This project provides an interactive, AI-powered assistant designed to be a comp
 
 ---
 
-## ☁️ Pushing to GitHub (First-Time Setup)
-
-Follow these steps from the root `H4Dassistant` directory on your current machine to publish your project to a new GitHub repository.
-
-1.  **Initialize Git**
-    This turns your project folder into a Git repository.
-    ```bash
-    git init -b main
-    ```
-
-2.  **Add all files for tracking**
-    This stages all files (except those listed in `.gitignore`) for your first commit.
-    ```bash
-    git add .
-    ```
-
-3.  **Make your first commit**
-    This saves the project's current state to your local Git history.
-    ```bash
-    git commit -m "Initial commit: Setup complete production application"
-    ```
-
-4.  **Connect to your GitHub Repository**
-    Go to [GitHub](https://github.com/new) and create a new, empty repository. GitHub will give you an HTTPS URL. Use it in the command below.
-    ```bash
-    # Replace <your-github-repository-url> with the HTTPS URL you just copied
-    git remote add origin <your-github-repository-url>
-    ```
-
-5.  **Push your code to GitHub**
-    This uploads your code to the GitHub repository.
-    ```bash
-    git push -u origin main
-    ```
-
----
-
 ## 🚀 One-Time Setup on `powerjad` (Home Computer)
 
 These steps will guide you through cloning the repository and installing all necessary dependencies on your new Ubuntu machine.
