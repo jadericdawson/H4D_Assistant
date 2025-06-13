@@ -1,6 +1,4 @@
-# H4D Assistant Chatbot (Production Deployment)
-
-# H4D Assistant Chatbot (Production Deployment)
+# H4D Assistant Chatbot
 
 This project provides an interactive, AI-powered assistant designed to be a companion for the book "Hacking for Defense." Users can ask questions in natural language to query the book's content, get summaries of key concepts, and receive detailed explanations of methodologies presented within the text. The application's goal is to make the principles of Hacking for Defense more accessible and easier to understand for students, entrepreneurs, and defense professionals.
 
