@@ -57,6 +57,14 @@ These steps will guide you through cloning the repository and installing all nec
     ```
     Paste your `OPENAI_API_KEY` into the file and save it (`Ctrl+X`, then `Y`, then `Enter`).
 
+    '''bash
+    # This is an example environment file.
+    # Copy this to .env and fill in your actual API key.
+    OPENAI_API_KEY="your-openai-api-key-goes-here"
+    '''
+
+
+
 ---
 
 ## ▶️ Running the Application Manually
