@@ -11,7 +11,7 @@ This project provides an interactive, AI-powered assistant designed to be a comp
 
 ---
 
-## 🚀 One-Time Setup on `powerjad` (Home Computer)
+## 🚀 One-Time Setup on
 
 These steps will guide you through cloning the repository and installing all necessary dependencies on your new Ubuntu machine.
 
