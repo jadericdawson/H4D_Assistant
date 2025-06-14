@@ -25,8 +25,7 @@ These steps will guide you through cloning the repository and installing all nec
 2.  **Clone the Repository**
     Open a terminal and clone your project from GitHub.
     ```bash
-    # Replace <your-github-repository-url> with the actual URL
-    git clone <your-github-repository-url>
+    git clone https://github.com/jadericdawson/H4D_Assistant.git
     cd H4Dassistant
     ```
 
