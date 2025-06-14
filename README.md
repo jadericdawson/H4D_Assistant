@@ -26,7 +26,7 @@ These steps will guide you through cloning the repository and installing all nec
     Open a terminal and clone your project from GitHub.
     ```bash
     git clone https://github.com/jadericdawson/H4D_Assistant.git
-    cd H4Dassistant
+    cd H4D_assistant
     ```
 
 3.  **Make Scripts Executable**
